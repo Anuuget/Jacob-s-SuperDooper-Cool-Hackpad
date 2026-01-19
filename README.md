@@ -49,6 +49,9 @@ Schematic
 .
 .
 
+git add .
+git commit -m "Add README"
+git push
 Case
 
 <img width="543" height="650" alt="Screenshot 2026-01-18 233808" src="https://github.com/user-attachments/assets/ee9c11bf-85bd-47ba-b3e5-7fcc97215937" />
