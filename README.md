@@ -1,6 +1,7 @@
 # Jacob-s-SuperDooper-Cool-Hackpad
 A 4 switch Hackpad
-<img width="2486" height="2091" alt="image" src="https://github.com/user-attachments/assets/1e7795c4-3491-4c40-a222-967447ed4a4f" />
+<img width="523" height="581" alt="Screenshot 2026-01-18 235309" src="https://github.com/user-attachments/assets/fb8bd399-7f77-4f56-81fd-04168012cf2e" />
+
 
 BOM:
 
